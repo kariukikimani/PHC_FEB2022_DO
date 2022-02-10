@@ -100,7 +100,7 @@ python-igraph==0.8.2
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.10
 pytz==2020.1
-pywin32==300
+pywin32
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 pyzmq==19.0.1
